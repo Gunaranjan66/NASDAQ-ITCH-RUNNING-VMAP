@@ -20,9 +20,8 @@ To run the script, use the following command:
 The script generates a JSON file (file_name.json) with the following format:
 ```json
 {
-    'symbol': {
-        'hour1': price1,
-        'hour2': price2,
-        ...
+    "symbol": {
+        "hour1": price1,
+        "hour2": price2,
     }
 }
